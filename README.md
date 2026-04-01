@@ -47,6 +47,8 @@
 [dtale](https://github.com/man-group/dtale) - View and analyze Pandas data structures, integrating with Jupyter.  
 [pandasgui](https://github.com/adamerose/pandasgui) - GUI for viewing, plotting and analyzing Pandas DataFrames.  
 [quak](https://github.com/manzt/quak) - Scalable, interactive data table, [twitter](https://x.com/trevmanz/status/1816760923949809982).  
+[data-formulator](https://github.com/microsoft/data-formulator) - Data visualization tool.  
+
 
 #### Environment and Jupyter
 [Jupyter Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
@@ -62,8 +64,11 @@
 [positron](https://github.com/posit-dev/positron) - Data Science IDE.  
 [Deepnote](https://deepnote.com) - Data Science platform with real-time collaboration, environment management.  
 
-#### Extraction
+#### Extraction + OCR
 [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
+[docling](https://github.com/docling-project/docling) - Text extraction.  
+[DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - OCR.  
+[chandra](https://github.com/datalab-to/chandra) - OCR.  
 
 #### Big Data
 [spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) - `DataFrame` for big data, [cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189), [tutorial](https://github.com/ericxiao251/spark-syntax).  
@@ -516,6 +521,7 @@ Image Data Explorer - Microscopy Image Viewer, [Shiny App](https://shiny-portal.
 [ImSwitch](https://github.com/ImSwitch/ImSwitch) - Microscopy Image Viewer, [Doc](https://imswitch.readthedocs.io/en/stable/gui.html), [Video](https://www.youtube.com/watch?v=XsbnMkGSPQQ).  
 [pixmi](https://github.com/piximi/piximi) - Web-based image annotation and classification tool, [App](https://www.piximi.app/).  
 [DeepCell Label](https://label.deepcell.org/) - Data labeling tool to segment images, [Video](https://www.youtube.com/watch?v=zfsvUBkEeow).  
+[lightly-studio](https://github.com/lightly-ai/lightly-studio) - Image annotation.  
 
 #### Napari Plugins
 [napari-sam](https://github.com/MIC-DKFZ/napari-sam) - Segment Anything Plugin.  
@@ -771,6 +777,7 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 
 ##### Deep learning on structured data
 [Great overview for deep learning for tabular data](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html)  
+[TabPFN](https://github.com/PriorLabs/TabPFN) - Foundation Model for Tabular Data.  
 
 ##### Graph-Based Neural Networks
 [How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)  
@@ -854,6 +861,7 @@ Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teach
 [BanditPAM](https://github.com/ThrunGroup/BanditPAM) - Improved k-Medoids Clustering.  
 [dendextend](https://github.com/talgalili/dendextend) - Comparing dendrograms (R package).  
 [DeepDPM](https://github.com/BGU-CS-VIL/DeepDPM) - Deep Clustering With An Unknown Number of Clusters.  
+[generalized-kmeans-clustering](https://github.com/derrickburns/generalized-kmeans-clustering) - Generalized k-means clustering.  
 
 ##### Clustering Evalutation
 * [Wagner, Wagner - Comparing Clusterings - An Overview](https://publikationen.bibliothek.kit.edu/1000011477/812079)
@@ -948,9 +956,10 @@ Turn time series into images and use Neural Nets: [example](https://gist.github.
 [luminaire](https://github.com/zillow/luminaire) - Anomaly Detection for time series.  
 [etna](https://github.com/tinkoff-ai/etna) - Time Series library.  
 [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.  
+[timesfm](https://github.com/google-research/timesfm) - Pretrained Time Series Foundation Model from Google.  
 
 #### Time Series - Nixla
-[nixtla](https://github.com/Nixtla/nixtla) - Pre-trained Time Series Foundation Model for forecasting and anomaly detection.  
+[nixtla](https://github.com/Nixtla/nixtla) - Pretrained Time Series Foundation Model for forecasting and anomaly detection.  
 [statsforecast](https://github.com/Nixtla/statsforecast) - Forecasting with statistical and econometric models.  
 [neuralforecast](https://github.com/Nixtla/neuralforecast) - Forecasting with neural networks.  
 [mlforecast](https://github.com/Nixtla/mlforecast) - Forecasting with ML models.  
