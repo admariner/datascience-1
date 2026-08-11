@@ -265,6 +265,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [featuretools](https://github.com/Featuretools/featuretools) - Automated feature engineering, [example](https://github.com/WillKoehrsen/automated-feature-engineering/blob/master/walk_through/Automated_Feature_Engineering.ipynb).  
 [tsfresh](https://github.com/blue-yonder/tsfresh) - Time series feature engineering.  
 [temporian](https://github.com/google/temporian) - Time series feature engineering by Google.  
+[pyhctsa](https://github.com/DynamicsAndNeuralSystems/pyhctsa) - Time series feature engineering.  
 [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.  
 [feature-engine](https://github.com/feature-engine/feature_engine) - Encoders, transformers, etc.  
 
