@@ -351,6 +351,7 @@ Faster t-SNE implementations: [tsne-cuda](https://github.com/CannyLab/tsne-cuda)
 [linearsdr](https://github.com/HarrisQ/linearsdr) - Linear Sufficient Dimension Reduction (R package).  
 [PHATE](https://github.com/KrishnaswamyLab/PHATE) - Tool for visualizing high dimensional data.  
 [datamapplot](https://github.com/TutteInstitute/datamapplot) - Tool for visualizing high dimensional data.  
+[bonsai](https://github.com/dhdegroot/Bonsai-data-representation/) - Dimension Reduction accurate and interpretable data-representation (scRNA-seq).  
 
 #### Visualization
 [All charts](https://datavizproject.com/)  
