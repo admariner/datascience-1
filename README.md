@@ -333,6 +333,7 @@ Additional plots for PCA - Factor Loadings, Cumulative Variance Explained, [Corr
 [prince](https://github.com/MaxHalford/prince) - Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
 Faster t-SNE implementations: [tsne-cuda](https://github.com/CannyLab/tsne-cuda), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE), [lvdmaaten](https://lvdmaaten.github.io/tsne/)  
 [umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection, [talk](https://www.youtube.com/watch?v=nq6iPZVUxZU), [explorer](https://github.com/GrantCuster/umap-explorer), [explanation](https://pair-code.github.io/understanding-umap/), [parallel version](https://docs.rapids.ai/api/cuml/stable/api.html).  
+[TorchDR](https://github.com/TorchDR/TorchDR) - GPU and multi-GPU dimensionality reduction with a scikit-learn-compatible API, including UMAP, t-SNE, PACMAP, PHATE, and PCA.  
 [humap](https://github.com/wilsonjr/humap) - Hierarchical UMAP.  
 [sleepwalk](https://github.com/anders-biostat/sleepwalk/) - Explore embeddings, interactive visualization (R package).  
 [somoclu](https://github.com/peterwittek/somoclu) - Self-organizing map.  
